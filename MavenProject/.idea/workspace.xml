@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c159057-e959-4422-b942-b86d08d51cbe" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="180" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumLoginTestForBDD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#729#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Runner/TestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="880">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel1/Helper1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel1/Homepage1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-junit/1.2.5/cucumber-junit-1.2.5.jar!/cucumber/api/junit/Cucumber.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel1/ResultPage1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel1/SmokeSuitTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel/SmokeTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/PracticeTestSuit/Test1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageObjectModel/Helpers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageObjectModel/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageObjectModel/SmokeTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageObjectModel/ResultPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageObjectModel1/Helper1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageObjectModel1/Hooks1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageObjectModel1/Homepage1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Features/testfeature" />
+        <option value="$PROJECT_DIR$/src/test/java/Features/Test.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/Runner/TestRun.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageObjectModel1/ResultPage1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageObjectModel1/SmokeSuitTest1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RunnerBdd/TestRun.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StepDefinitionBdd/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StepDefinitionBdd/SeleniumloginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RunnerBdd/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RunnerBdd/Runner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StepDefinitionBdd/TestingSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StepDefinitionBdd/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Stepdefinition/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FeaturesBdd/Test.feature" />
+        <option value="$PROJECT_DIR$/src/test/Resources/login.feature" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Runner/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Stepdefinition/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumLoginTestForBDD.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageObjectModel/HomePage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PageObjectModel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vipul\IdeaProjects\MavenProject\src\test\Resources" />
+      <recent name="C:\Users\Vipul\IdeaProjects\MavenProject\src\test\java\RunnerBdd" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SmokeTestSuite">
+    <configuration name="SeleniumLoginTestForBDD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumLoginTestForBDD" />
+      <module name="MavenProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Resources/login.feature" />
+      <option name="GLUE" value="Stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="MavenProject" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeSuitTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PageObjectModel1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PageObjectModel1" />
+      <option name="MAIN_CLASS_NAME" value="PageObjectModel1.SmokeSuitTest1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PageObjectModel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PageObjectModel" />
+      <option name="MAIN_CLASS_NAME" value="PageObjectModel.SmokeTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SmokeTestSuite" />
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="JUnit.SmokeSuitTest1" />
+        <item itemvalue="Cucumber java.Feature: login" />
+        <item itemvalue="Application.SeleniumLoginTestForBDD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c159057-e959-4422-b942-b86d08d51cbe" name="Default Changelist" comment="" />
+      <created>1558973576011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558973576011</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestRunner - 2019.06.16 at 17h 25m 57s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2019.06.16 at 17h 31m 35s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2019.06.16 at 17h 36m 17s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2019.06.18 at 20h 59m 34s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2019.06.18 at 21h 00m 45s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmokeSuitTest1 - 2019.06.18 at 21h 17m 32s.xml">
+      <configuration name="SmokeSuitTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmokeTestSuite - 2019.06.18 at 21h 18m 52s.xml">
+      <configuration name="SmokeTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmokeTestSuite - 2019.06.18 at 21h 19m 25s.xml">
+      <configuration name="SmokeTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2019.06.18 at 23h 01m 10s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SmokeTestSuite - 2019.06.20 at 21h 18m 29s.xml">
+      <configuration name="SmokeTestSuite" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29727685" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37806875" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MavenProject$HomePage.ic" NAME="HomePage Coverage Results" MODIFIED="1559502096231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>PageObjectModel.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MavenProject$TestRunner.ic" NAME="TestRunner Coverage Results" MODIFIED="1560551504846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Runner.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MavenProject$SeleniumLoginTestForBDD.ic" NAME="SeleniumLoginTestForBDD Coverage Results" MODIFIED="1560550404172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/FindElement.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_argosss 2 (1).zip/argosss/src/test/java/com/ittraiing/selenium/utils/Helpers.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_argosss 2 (1).zip/argosss/src/test/java/com/ittraiing/selenium/Hooks.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_argosss 2 (1).zip/argosss/src/test/java/com/ittraiing/selenium/page_objects/HomePage.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_argosss 2 (1).zip/argosss/src/test/java/com/ittraiing/selenium/SmokeTestSuite.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Maven_Itsolution/com/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/PracticeTestSuit/Test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="13" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel/ResultPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MavenProject.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Features/testfeature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel/Helpers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RunnerBdd/TestRun.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/RunnerBdd/TestRunner.java" />
+    <entry file="file://$USER_HOME$/Downloads/9-TestRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/9-logintest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/6-SeleniumLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RunnerBdd/Runner.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinitionBdd/TestingSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinitionBdd/SeleniumloginTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Stepdefinition/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Test.feature" />
+    <entry file="file://$USER_HOME$/Documents/Software Testing Ayyappa/Selenium by Rakesh/argosss/src/test/java/com/ittraiing/selenium/Hooks.java" />
+    <entry file="file://$USER_HOME$/Documents/Software Testing Ayyappa/Selenium by Rakesh/argosss/src/test/java/com/ittraiing/selenium/RunCukesTest.java" />
+    <entry file="file://$USER_HOME$/Documents/Software Testing Ayyappa/Selenium by Rakesh/argosss/src/test/java/com/ittraiing/selenium/page_objects/PaymentPage.java" />
+    <entry file="file://$USER_HOME$/Documents/Software Testing Ayyappa/Selenium by Rakesh/argosss/src/test/java/com/ittraiing/selenium/page_objects/LoginPage.java" />
+    <entry file="file://$USER_HOME$/Documents/Software Testing Ayyappa/Selenium by Rakesh/argosss/src/test/java/com/ittraiing/selenium/page_objects/HomePage.java" />
+    <entry file="file://$USER_HOME$/Documents/Software Testing Ayyappa/Selenium by Rakesh/argosss/src/test/java/com/ittraiing/selenium/driver/DriverFactory.java" />
+    <entry file="file://$USER_HOME$/Documents/Software Testing Ayyappa/Selenium by Rakesh/argosss/src/test/java/com/ittraiing/selenium/steps/FilterStepDef.java" />
+    <entry file="file://$USER_HOME$/Documents/Software Testing Ayyappa/Selenium by Rakesh/argosss/src/test/java/com/ittraiing/selenium/page_objects/TrolleyPage.java" />
+    <entry file="file://$USER_HOME$/Documents/Software Testing Ayyappa/Selenium by Rakesh/argosss/src/test/java/com/ittraiing/selenium/page_objects/ResultsPage.java" />
+    <entry file="file://$USER_HOME$/Documents/Software Testing Ayyappa/Selenium by Rakesh/argosss/src/test/java/com/ittraiing/selenium/page_objects/RegistationPage.java" />
+    <entry file="file://$USER_HOME$/Documents/Software Testing Ayyappa/Selenium by Rakesh/argosss/src/test/java/com/ittraiing/selenium/steps/SearchStepDef.java" />
+    <entry file="file://$USER_HOME$/Documents/Software Testing Ayyappa/Selenium by Rakesh/argosss/src/test/java/com/ittraiing/selenium/utils/Helpers.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Stepdefinition/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel1/Hooks1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumLoginTestForBDD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#729#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Runner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel1/Helper1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel1/Homepage1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-junit/1.2.5/cucumber-junit-1.2.5.jar!/cucumber/api/junit/Cucumber.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel1/ResultPage1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel1/SmokeSuitTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel/SmokeTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageObjectModel/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
